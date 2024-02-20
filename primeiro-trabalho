@@ -1,1 +1,38 @@
-aaa
+DEFINIR O QUE É ARQUIVO NO CONTEXTO DA COMPUTAÇÃO
+1.1 ARQUIVO DE TEXTO
+Arquivo é um conjunto de dados que se relacionam de alguma forma, ou seja, juntos descrevem uma informação ou conjunto de informações. 
+Eles são formados por dados digitais, organizados seguindo algum tipo de estrutura (ou formato). 
+O arquivo é essencialmente uma sequência de bytes armazenada em um dispositivo físico não volátil, como um disco rígido ou de estado sólido, 
+que preserva seu conteúdo mesmo quando desligado. Cada arquivo possui um nome, ou outra referência, que permite sua localização e acesso. 
+Ou seja, o arquivo eletrônico (ou simplesmente arquivo) é a estrutura lógica utilizada para guardar os nossos dados no computador, 
+da mesma forma que o papel guarda os trabalhos feitos à mão.
+Do ponto de vista do usuário e das aplicações, o arquivo é a unidade básica de armazenamento de informação em um dispositivo não volátil, 
+pois para eles não há forma mais simples de armazenamento persistente de dados. Arquivos são extremamente versáteis em conteúdo e capacidade:
+podem conter desde um texto com alguns poucos caracteres até vídeos com dezenas de gigabytes, ou ainda mais. Como um dispositivo de 
+armazenamento pode conter milhões de arquivos, estes são organizados em estruturas hierárquicas denominadas diretórios, para facilitar sua 
+localização e acesso pelos usuários. A organização do conteúdo dos arquivos e diretórios dentro de um dispositivo físico é denominada sistema
+de arquivos. Um sistema de arquivos pode ser visto como uma imensa estrutura de dados armazenada de forma persistente no dispositivo físico. 
+Existe um grande número de sistemas de arquivos, dentre os quais podem ser citados o NTFS (nos sistemas Windows), Ext2/Ext3/Ext4 (Linux), 
+HPFS (MacOS), FFS (Solaris) e FAT (usado em pendrives USB, câmeras fotográficas digitais e leitores MP3). 
+No caso do arquivo de texto, ele é usado para armazenar informações textuais simples, como códigos-fonte de programas, 
+arquivos de configuração, páginas HTML, dados em XML, etc. Um arquivo de texto é formado por linhas de caracteres de tamanho variável, 
+separadas por caracteres de controle.
+
+2. O QUE É VARIÁVEL NO CONTEXTO DA COMPUTAÇÃO
+Uma variável representa um contêiner ou espaço na memória física ou virtual de um computador, onde diferentes tipos de dados (valores) 
+são armazenados durante a execução de um programa. A cada variável é atribuído um nome descritivo ou identificador que se refere ao valor 
+salvo. As variáveis são usadas para salvar e recuperar dados, representar valores existentes e atribuir novos. Elas permitem que os 
+programadores se refiram a um valor com um nome representativo em vez de ter que se lembrar desse valor. 
+
+3. SERVIDOR NO CONTEXTO DA COMPUTAÇÃO
+Um servidor é um computador equipado com um ou mais processadores, bancos de memória, portas de comunicação, softwares e, ocasionalmente, 
+algum sistema para armazenamento de dados, como hard disks internos ou memórias SSD.
+Eles são peças-chave na arquitetura cliente-servidor, desempenhando um papel fundamental na rede, seja ela local ou em larga escala na 
+internet.
+Existem diferentes tipos de servers, classificados com base em sua finalidade. Por exemplo, web server hospeda páginas da internet, mail 
+server gerencia a correspondência digital, servidor de banco de dados mantêm uma vasta quantidade de informações organizadas e acessíveis,
+e assim por diante. E eles podem ser físicos (uma máquina real em um data center), virtuais (um server lógico operando em um ambiente virtualizado) 
+ou em nuvem (serviços baseados em nuvem que podem escalar conforme a necessidade). 
+Além disso, os servidores permitem a comunicação, colaboração, compartilhamento e armazenamento de informações em escala global.
+
+
