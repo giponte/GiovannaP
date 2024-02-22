@@ -38,9 +38,33 @@ Além disso, os servidores permitem a comunicação, colaboração, compartilham
 
 SEGUNDO EXERCÍCIO
 1. a) A relação entre a LGPD e os Data Centers no Brasil
+A LGPD tem como objetivo criar um cenário de segurança jurídica ao padronizar normas e práticas para proteger os dados pessoais de todos os cidadãos no Brasil. 
+Os Data Centers, também conhecidos como Centros de Processamento de Dados, estão incluídos nas adequações da LGPD, inclusive, por estarem no ramo de empresas que hospedam dados e aplicações corporativas.
+Justamente por terem em sua base servidores, armazenamento e processamento de dados, roteadores, equipamentos e dispositivos de segurança e outras ferramentas físicas e digitais, 
+carecem de uma atenção essencial por conta de seu objetivo na garantia de segurança de um ambiente empresarial.
+Dado que os Data Centers armezam e processam dados, é de suma importante estar em adequação com a LGPD.
 
-b) Formatos de arquivos de dados proprietários e abertos 
+b) Formatos de arquivos de dados proprietários e abertos
 b.1) Exemplos de formatos
+Os formatos proprietários representam a privatização da memória digital. Arquivos salvos em formatos abertos são arquivos que seguem padrões abertos, cujas especificações são publicadas e podem ser conhecidas 
+por todos. Os Formatos abertos permitem que diversos softwares possam implementá-los, independentemente dos direitos de propriedade.
+Para ser aberto um formato precisa ser baseado em padrões abertos. Deve ainda ser desenvolvido de forma transparente e de modo coletivo, tal como ocorre, por exemplo, com o HTML5. Além disso, também podemos citar
+como exemplo de formato aberto o PDF, pois ele não permite a edição e a remixagem de seus textos e imagens.
+Como exemplos de formatos proprietários temos: DWG - AutoCad Drawing; SWF - Shockwave Flash; DOC - formato proprietário de texto e PPT - formato proprietário de apresentação de slides.
+É importante esclarecer também que, mesmo que algum produto seja amplamante disponível, isso não significa que seu formato seja aberto, como exemplo disso tem-se os produtos Flash Da Adobe que são amplamente
+disponíveis, mas são controlados totalmente pela Adobe e estão disponíveis somente a partir da Adobe.
+
 b.2) Implicações relacionadas a dados públicos
+Os dados abertos governamentaissão os dados públicos que sçao produzidos pelas atividades estatais (Legislativo, Executivo e Judiciário), disponíveis para qualquer
+indivíduo ou entidade não só ler ou acompanhar, mas também fazer download, utilizar, distribuir em forma de novos projetos (conteúdos, sítios, aplicativos etc.), estando sujeitos a créditos de autoria.
+Todo dado público tem vocação para ser aberto. Por dado público entende-se aquele que não está sujeito a limitações válidas de privacidade, segurança, controle de acesso ou outros privilégios, desde que
+transparente, bem justificado e regulado por estatutos.
+Para a sociedade, é uma questão de inclusão. Qualquer indivíduo, grupo ou empresa poderá utilizar as ferramentas de software disponíveis para adaptar os dados públicos às suas necessidades, independente do 
+conhecimento ou previsão dos produtos e serviços finais por parte das fontes oficiais. Para a gestão pública, trata-se de eficiência. Ao publicar os dados de maneira pró-ativa, em formato e licença abertos, 
+reduzem-se os custos de transação decorrentes da necessidade de firmar convênios ou termos de cooperação para ter acesso a bancos de dados e informações de outros órgãos públicos.
 
 Fontes:
+https://odatacolocation.com/blog/lgpd-para-datacenters/
+https://www.lgpdbrasil.com.br/quais-os-impactos-da-lgpd-para-os-data-centers/#:~:text=A%20LGPD%20trata%20com%20%C3%AAnfase%20sobre%20o%20cumprimento,atingir%20dados%20armazenados%20em%20nuvem%20de%20seus%20clientes.
+https://campusvirtual.fiocruz.br/portal/guiarea/OpenFormats.html#:~:text=Os%20formatos%20propriet%C3%A1rios%20representam%20a,podem%20ser%20conhecidas%20por%20todos.
+https://ouvidoriageral.rs.gov.br/upload/arquivos/201707/10105453-manual-dados-tecnico.pdf
