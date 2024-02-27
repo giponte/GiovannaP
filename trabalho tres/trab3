@@ -2,7 +2,8 @@ Explique as diferenças entre 3 linguagens de programação:
 Python é uma linguagem de programação de alto nível, ou seja, com sintaxe mais simplificada e próxima da linguagem humana, utilizada nas mais diversas aplicações, 
 como desktop, web, servidores e ciência de dados. A linguagem foi projetada para dar ênfase no trabalho do desenvolvedor, facilitando a escrita de um código limpo, 
 simples e legível, tanto em aplicações menores quanto em programas mais complexos. No caso do Java, o Java é uma linguagem de programação amplamente usada e versátil, 
-conhecida por sua portabilidade e segurança.
+conhecida por sua portabilidade e segurança. Já no caso do C++ é uma linguagem de programação de alto nível e de propósito geral. Ela foi desenvolvida como uma extensão da linguagem C, 
+incorporando recursos adicionais, como suporte à programação orientada a objetos.
 
 Código Python
 print("Olá, meu nome é Giovanna")
@@ -20,4 +21,13 @@ class Main{
 
 https://github.com/giponte/GiovannaP/blob/main/trabalho%20tres/Java.png?raw=true
 
+Código C++
+#include <iostream>
+
+int main() {
+    std::cout << "Olá, meu nome é Giovanna";
+    return 0;
+}
+
+https://github.com/giponte/GiovannaP/blob/main/trabalho%20tres/C++.png?raw=true
 
