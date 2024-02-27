@@ -1,0 +1,12 @@
+Explique as diferenças entre 3 linguagens de programação: 
+Python é uma linguagem de programação de alto nível, ou seja, com sintaxe mais simplificada e próxima da linguagem humana, utilizada nas mais diversas aplicações, 
+como desktop, web, servidores e ciência de dados. A linguagem foi projetada para dar ênfase no trabalho do desenvolvedor, facilitando a escrita de um código limpo, 
+simples e legível, tanto em aplicações menores quanto em programas mais complexos. No caso do JavaScript, é uma linguagem de programação amplamente usada e versátil, 
+conhecida por sua portabilidade e segurança. 
+
+Código Python
+print("Olá, meu nome é Giovanna")
+
+
+
+
