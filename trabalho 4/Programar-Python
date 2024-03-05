@@ -1,0 +1,27 @@
+Estrutura de repetição: Os loops são codificados por meio dos comandos for e while. O primeiro nos permite percorrer os 
+itens de uma coleção e, para cada um deles, executar um bloco de código. Já o while, executa um conjunto de instruções várias vezes
+enquanto uma condição é atendida.
+
+nomes = ['Pedro', 'João', 'Leticia']
+for n in nomes:
+    print(n)
+    
+    contador = 0
+while contador < 5:
+    print(contador)
+    contador = contador + 1
+
+https://github.com/giponte/GiovannaP/blob/main/trabalho%204/Python%20-%20estrutura%20de%20repeti%C3%A7%C3%A3o.png
+
+Estrutura de tomada de decisão: O IF é uma estrutura condicional que permite avaliar uma expressão e, de acordo com seu resultado, executar uma determinada ação, ou seja 
+permitem que seu programa tome decisões com base em condições específicas e escolha diferentes caminhos de execução com base nesses critérios.
+
+idade = 16
+if idade < 20:
+    print('Você é jovem!')
+
+https://github.com/giponte/GiovannaP/blob/main/trabalho%204/Python%20-%20estrutura%20de%20tomada%20de%20decis%C3%A3o.png
+
+Fontes: 
+https://www.devmedia.com.br/estruturas-de-repeticao-em-python/41551
+https://www.devmedia.com.br/estruturas-de-condicao-em-python/37158
