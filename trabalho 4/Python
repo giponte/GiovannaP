@@ -1,1 +1,10 @@
+Estrutura de repetição
 
+nomes = ['Pedro', 'João', 'Leticia']
+for n in nomes:
+    print(n)
+    
+    contador = 0
+while contador < 5:
+    print(contador)
+    contador = contador + 1
