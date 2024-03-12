@@ -1,0 +1,36 @@
+1) A classificação por bolha, ou Bubble Sort, é um algoritmo básico para organizar uma sequência de números ou outros elementos na ordem correta. 
+O método funciona examinando cada conjunto de elementos adjacentes na string, da esquerda para a direita, trocando suas posições se estiverem fora de ordem. O algoritmo então 
+repete esse processo até que possa percorrer toda a string e não encontrar dois elementos que precisem ser trocados.
+
+def bubble_sort(arr):
+    n = len(arr)
+    # Percorre todos os elementos do array
+    for i in range(n):
+        # Últimos i elementos já estão no lugar certo
+        for j in range(0, n-i-1):
+            # Percorre o array da posição 0 até n-i-1
+            # Troca se o elemento encontrado for maior que o próximo
+            if arr[j] > arr[j+1]:
+                arr[j], arr[j+1] = arr[j+1], arr[j]
+
+# Exemplo de uso
+arr = [64, 34, 25, 12, 22, 11, 90]
+bubble_sort(arr)
+print("Array ordenado:")
+for i in range(len(arr)):
+    print(arr[i], end=" ")
+
+2) Imprimir apenas vogais:
+
+def imprime_vogais(texto):
+    vogais = "aeiouAEIOU"
+    vogais_encontradas = ""
+    for letra in texto:
+        if letra in vogais:
+            vogais_encontradas += letra
+    return vogais_encontradas
+
+# Exemplo de uso
+palavra = "Olá, mundo! Esta é uma frase de exemplo."
+print("Vogais encontradas na palavra/frase:")
+print(imprime_vogais(palavra))
