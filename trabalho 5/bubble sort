@@ -32,6 +32,7 @@ def imprime_vogais(texto):
             vogais_encontradas += letra
     return vogais_encontradas
 
+https://github.com/giponte/GiovannaP/blob/main/trabalho%205/vogais.png
 # Exemplo de uso
 palavra = "Olá, mundo! Esta é uma frase de exemplo."
 print("Vogais encontradas na palavra/frase:")
