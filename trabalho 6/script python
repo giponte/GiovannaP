@@ -32,3 +32,4 @@ maior_numero = max(numeros)
 print("O maior número é:", maior_numero)
 
 Prova spider: https://github.com/giponte/GiovannaP/blob/main/trabalho%206/script-trab6.py
+Prova de execução: https://github.com/giponte/GiovannaP/blob/main/trabalho%206/prova%20-%20script%20trab%206%20python.png
