@@ -31,5 +31,4 @@ print("O primeiro número é maior que o segundo:", primeiro_maior)
 maior_numero = max(numeros)
 print("O maior número é:", maior_numero)
 
-Prova de execução: https://github.com/giponte/GiovannaP/blob/main/trabalho%206/script%20python.png
 Prova spider: https://github.com/giponte/GiovannaP/blob/main/trabalho%206/script-trab6.py
