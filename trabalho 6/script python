@@ -1,7 +1,7 @@
 # Variáveis
-numeros = [15, 20, 35, 40, 60]
+numeros = [15, 35, 40, 60]
 frase = "Olá, meu nome é Giovanna"
-palavra = "Giovanna"
+palavra = "Coração"
 
 # Calculando a média aritmética dos números
 media = sum(numeros) / len(numeros)
@@ -31,4 +31,4 @@ print("O primeiro número é maior que o segundo:", primeiro_maior)
 maior_numero = max(numeros)
 print("O maior número é:", maior_numero)
 
-Prova de execução: https://github.com/giponte/GiovannaP/blob/main/trabalho%206/script%20python.png
+Prova de execução: 
