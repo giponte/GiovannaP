@@ -28,7 +28,7 @@ nova_palavra = "maçã"
 nova_lista = substituir_palavra(lista_palavras, palavra_procurada, nova_palavra)
 
 prova de execução = https://github.com/giponte/GiovannaP/blob/main/trabalho%207/prova%20-%20trab%207%20-%20fun%C3%A7%C3%B5es.png
-
+prova spyder = https://github.com/giponte/GiovannaP/blob/main/trabalho%207/script-trab7.py
 print("Lista alterada:", nova_lista)
 
 # Questão 3
